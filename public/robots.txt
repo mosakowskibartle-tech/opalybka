@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://opalubkapro.ru/sitemap.xml
+
+Host: https://opalubkapro.ru
